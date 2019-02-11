@@ -2,7 +2,7 @@
 name: Inhaltlicher Fehler
 about: Hilf uns Fehler zu Verbessern
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
