@@ -1,6 +1,10 @@
-# LaTeX4Ei
+# [LaTeX4Ei](http://latex4ei.de)
 
 Allgemeines und Issue Tracking
+
+## Mitarbeiten
+
+Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ## Formelsammlungen für Latex4ei
 
