@@ -4,19 +4,24 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
-- [Mitarbeiten](#mitarbeiten)
-- [Formelsammlungen](#formelsammlungen)
-  - [1. Semester](#1-semester)
-  - [2. Semester](#2-semester)
-  - [3. Semester](#3-semester)
-  - [4. Semester](#4-semester)
-  - [Wahlfächer](#wahlfächer)
-  - [Master](#master)
-  - [LaTeX](#latex)
-  - [Externe Formelsammlungen](#externe-formelsammlungen)
-  - [Veraltete Formelsammlungen](#veraltete-formelsammlungen)
+## 📚 Table of Contents
 
+- ✏️ [Mitarbeiten](#mitarbeiten)
+- 📘 [Formelsammlungen](#formelsammlungen)
+  - 📖 [1. Semester](#1-semester)
+  - 📖 [2. Semester](#2-semester)
+  - 📖 [3. Semester](#3-semester)
+  - 📖 [4. Semester](#4-semester)
+  - 🛠️ [Wahlfächer](#wahlfächer)
+  - 🎓 [Master](#master)
+  - 📜 [LaTeX](#latex)
+  - 🌐 [Externe Formelsammlungen](#externe-formelsammlungen)
+  - 🕰️ [Veraltete Formelsammlungen](#veraltete-formelsammlungen)
+- 📄 [Lizenz](#lizenz)
+  
 <!-- mdformat-toc end -->
+
+
 
 ## Mitarbeiten
 
@@ -172,3 +177,6 @@ Achtung: Diese Formelsammlungen werden nicht mehr verwendet und nicht mehr verbe
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                    | [Digitaltechnik Formelsammlung (bis WS 2012/13)](https://latex4ei.de/downloads/FSDigitaltechnik-alte-Version.pdf) | [GitHub](https://github.com/latex4ei/Digitaltechnik) |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                    | [Rauschen (unvollständig)](https://latex4ei.de/downloads/Rauschen.pdf)           | NaN                                              |
 | ![CI Status](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1/workflows/CI/badge.svg) | [Mensch-Maschine-Kommunikation 1 (vor WS 2016/17)](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1/raw/gh-pages/mmk1_vor_ws16-17.pdf) | [GitHub](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1) |
+
+## Lizenz
+Unsere Formelsammlungen sind lizenziert unter unserer [eigenen Lizenz](license.txt).
