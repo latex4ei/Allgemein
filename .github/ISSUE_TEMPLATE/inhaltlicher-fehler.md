@@ -1,11 +1,12 @@
----
+______________________________________________________________________
+
 name: Inhaltlicher Fehler
 about: Hilf uns Fehler zu Verbessern
 title: ''
 labels: bug
 assignees: ''
 
----
+______________________________________________________________________
 
 **Formelsammlung**
 In welcher Formelsammlung ist der Fehler
