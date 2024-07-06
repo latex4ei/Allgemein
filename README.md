@@ -32,7 +32,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 | CI Status                                                                                         | Formelsammlung                                                                    | Repository                                   |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | -------------------------------------------- |
-| ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Ingenieursgrundlagen](https://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)    | NaN                                          |
+| ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Important Engineering Equations](https://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)    | NaN                                          |
 
 ### 1. Semester
 
