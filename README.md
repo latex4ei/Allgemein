@@ -6,7 +6,6 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
 
 - [Mitarbeiten](#mitarbeiten)
 - [Formelsammlungen](#formelsammlungen)
-  - [Allgemein](#allgemein)
   - [1. Semester](#1-semester)
   - [2. Semester](#2-semester)
   - [3. Semester](#3-semester)
@@ -24,13 +23,8 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
 Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ## Formelsammlungen
-
-### Allgemein
-
-| CI Status                                                                                         | Formelsammlung                                                                    | Repository                                   |
-| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | -------------------------------------------- |
-| ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Important Engineering Equations](https://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)    | NaN                                          |
-
+📘 **[Essential Engineering Formulas](http://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)** - 
+*Eine Zusammenfassung der wichtigsten Formeln und Tabellen, die ein Ingenieur so braucht.*
 ### 1. Semester
 
 | CI Status                                                                                      | Formelsammlung                                                                   | Repository                                       |
