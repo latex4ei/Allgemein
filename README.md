@@ -16,9 +16,6 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
   - [LaTeX](#latex)
   - [Externe Formelsammlungen](#externe-formelsammlungen)
   - [Veraltete Formelsammlungen](#veraltete-formelsammlungen)
-- [Formelsammlungen für Latex4ei](#formelsammlungen-f%C3%BCr-latex4ei)
-- [Optional: Build with CMake](#optional-build-with-cmake)
-  - [Steps to build](#steps-to-build)
 
 <!-- mdformat-toc end -->
 
