@@ -30,15 +30,27 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 1. Semester
 
-| Formelsammlung                                                                   | Repository                                       |
-| -------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [Analysis 1](https://github.com/latex4ei/Analysis-1/raw/gh-pages/Analysis-1.pdf) | [GitHub](https://github.com/latex4ei/Analysis-1) |
+| Formelsammlung                                                                   | Repository                                       | CI Status                                                                                      | Last Updated |
+| -------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------ |
+| [Analysis 1](https://github.com/latex4ei/Analysis-1/raw/gh-pages/Analysis-1.pdf) | [GitHub](https://github.com/latex4ei/Analysis-1) | ![CI Status](https://github.com/latex4ei/Analysis-1/workflows/CI/badge.svg)                    | Not Available |
 
 ### 2. Semester
 
+| Formelsammlung | Repository | CI Status | Last Updated |
+| -------------- | ---------- | --------- | ------------ |
+| Example 2-1    | [GitHub](https://github.com/latex4ei/Example-2-1) | ![CI Status](https://github.com/latex4ei/Example-2-1/workflows/CI/badge.svg) | Not Available |
+
 ### 3. Semester
 
+| Formelsammlung | Repository | CI Status | Last Updated |
+| -------------- | ---------- | --------- | ------------ |
+| Example 3-1    | [GitHub](https://github.com/latex4ei/Example-3-1) | ![CI Status](https://github.com/latex4ei/Example-3-1/workflows/CI/badge.svg) | Not Available |
+
 ### 4. Semester
+
+| Formelsammlung | Repository | CI Status | Last Updated |
+| -------------- | ---------- | --------- | ------------ |
+| Example 4-1    | [GitHub](https://github.com/latex4ei/Example-4-1) | ![CI Status](https://github.com/latex4ei/Example-4-1/workflows/CI/badge.svg) | Not Available |
 
 ### Externe Formelsammlungen
 
@@ -61,4 +73,3 @@ mkdir build
 cd build
 cmake ..
 make
-```
