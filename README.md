@@ -1,6 +1,22 @@
 # [LaTeX4Ei](http://latex4ei.de)
 
-Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik (TUM)
+Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik (TUM).
+
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
+
+- [Mitarbeiten](#mitarbeiten)
+- [Formelsammungen](#formelsammungen)
+  - [Allgemein](#allgemein)
+  - [1. Semester](#1-semester)
+  - [2. Semester](#2-semester)
+  - [3. Semester](#3-semester)
+  - [4. Semester](#4-semester)
+  - [Externe Formelsammlungen](#externe-formelsammlungen)
+- [Formelsammlungen für Latex4ei](#formelsammlungen-f%C3%BCr-latex4ei)
+- [Optional: Build with CMake](#optional-build-with-cmake)
+  - [Steps to build](#steps-to-build)
+
+<!-- mdformat-toc end -->
 
 ## Mitarbeiten
 
