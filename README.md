@@ -4,45 +4,43 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
-## 📚 Table of Contents
-
-- ✏️ [Mitarbeiten](#mitarbeiten)
-- 📘 [Formelsammlungen](#formelsammlungen)
-  - 📖 [1. Semester](#1-semester)
-  - 📖 [2. Semester](#2-semester)
-  - 📖 [3. Semester](#3-semester)
-  - 📖 [4. Semester](#4-semester)
-  - 🛠️ [Wahlfächer](#wahlf%C3%A4cher)
-  - 🎓 [Master](#master)
-  - 📜 [LaTeX](#latex)
-  - 🌐 [Externe Formelsammlungen](#externe-formelsammlungen)
-  - 🕰️ [Veraltete Formelsammlungen](#veraltete-formelsammlungen)
-- 📄 [Lizenz](#lizenz)
+- [✏️ Mitarbeiten](#%E2%9C%8F%EF%B8%8F-mitarbeiten)
+- [📘 Formelsammlungen](#%F0%9F%93%98-formelsammlungen)
+  - [📖 1. Semester](#%F0%9F%93%96-1-semester)
+  - [📖 2. Semester](#%F0%9F%93%96-2-semester)
+  - [📖 3. Semester](#%F0%9F%93%96-3-semester)
+  - [📖 4. Semester](#%F0%9F%93%96-4-semester)
+  - [🛠️ Wahlfächer](#%F0%9F%9B%A0%EF%B8%8F-wahlf%C3%A4cher)
+  - [🎓 Master](#%F0%9F%8E%93-master)
+  - [📜 LaTeX](#%F0%9F%93%9C-latex)
+  - [🌐 Externe Formelsammlungen](#%F0%9F%8C%90-externe-formelsammlungen)
+  - [🕰️ Veraltete Formelsammlungen](#%F0%9F%95%B0%EF%B8%8F-veraltete-formelsammlungen)
+- [📄 Lizenz](#%F0%9F%93%84-lizenz)
 
 <!-- mdformat-toc end -->
 
-## Mitarbeiten
+## ✏️ Mitarbeiten
 
 Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
-## Formelsammlungen
+## 📘 Formelsammlungen
 
-📘 **[Essential Engineering Formulas](http://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)** -
+**[Essential Engineering Formulas](http://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)** -
 *Eine Zusammenfassung der wichtigsten Formeln und Tabellen, die ein Ingenieur so braucht.*
 
-### 1. Semester
+### 📖 1. Semester
 
 | CI Status                                                                              | Formelsammlung                                                                                                 | Repository                                                  |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | ![CI Status](https://github.com/latex4ei/Analysis-1/workflows/CI/badge.svg)            | [Analysis 1 Formelsammlung](https://github.com/latex4ei/Analysis-1/raw/gh-pages/Analysis-1.pdf)                | [GitHub](https://github.com/latex4ei/Analysis-1)            |
-| ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)            | [Analysis 1 für Mathematiker](https://latex4ei.de/downloads/Analysis_1_ma.pdf)                                 | [GitHub](https://github.com/latex4ei/Analysis-1)                                                          |
+| ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)            | [Analysis 1 für Mathematiker](https://latex4ei.de/downloads/Analysis_1_ma.pdf)                                 | [GitHub](https://github.com/latex4ei/Analysis-1)            |
 | ![CI Status](https://github.com/latex4ei/Computertechnik/workflows/CI/badge.svg)       | [Computertechnik](https://github.com/latex4ei/Computertechnik/raw/gh-pages/Computertechnik.pdf)                | [GitHub](https://github.com/latex4ei/Computertechnik)       |
 | ![CI Status](https://github.com/latex4ei/Digitaltechnik/workflows/CI/badge.svg)        | [Digitaltechnik Formelsammlung](https://github.com/latex4ei/Digitaltechnik/raw/gh-pages/FSDigitaltechnik.pdf)  | [GitHub](https://github.com/latex4ei/Digitaltechnik)        |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)            | [Höhere Mathematik 1 Formelsammlung für Maschinenbauer](https://latex4ei.de/downloads/HM1_MaschBau.pdf)        | N/A                                                         |
 | ![CI Status](https://github.com/latex4ei/Lineare-Algebra/workflows/CI/badge.svg)       | [Lineare Algebra Formelsammlung](https://github.com/latex4ei/Lineare-Algebra/raw/gh-pages/Lineare-Algebra.pdf) | [GitHub](https://github.com/latex4ei/Lineare-Algebra)       |
 | ![CI Status](https://github.com/latex4ei/Schaltungstechnik-1-2/workflows/CI/badge.svg) | [Schaltungstheorie](https://github.com/latex4ei/Schaltungstechnik-1-2/raw/gh-pages/Schaltungstechnik.pdf)      | [GitHub](https://github.com/latex4ei/Schaltungstechnik-1-2) |
 
-### 2. Semester
+### 📖 2. Semester
 
 | CI Status                                                                                        | Formelsammlung                                                                                                                     | Repository                                                            |
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -55,7 +53,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 | ![CI Status](https://github.com/latex4ei/Systemtheorie/workflows/CI/badge.svg)                   | [Systemtheorie Formelsammlung](https://github.com/latex4ei/Systemtheorie/raw/gh-pages/Systemtheorie.pdf)                           | [GitHub](https://github.com/latex4ei/Systemtheorie)                   |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Physik Zusammenfassung (unvollständig)](https://latex4ei.de/downloads/PHY_2011.pdf)                                               | N/A                                                                   |
 
-### 3. Semester
+### 📖 3. Semester
 
 | CI Status                                                                                                 | Formelsammlung                                                                                                                                                                            | Repository                                                                     |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -70,7 +68,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 | ![CI Status](https://github.com/latex4ei/Festkoerper-Halbleiter-Bauelementephysik/workflows/CI/badge.svg) | [Festkoerper-Halbleiter-Bauelementepyhsik Formelsammlung](https://github.com/latex4ei/Festkoerper-Halbleiter-Bauelementephysik/raw/gh-pages/Festkoerper-Halbleiter-Bauelementephysik.pdf) | [GitHub](https://github.com/latex4ei/Festkoerper-Halbleiter-Bauelementephysik) |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                               | [Werkstoffe Verständnisfragen](https://latex4ei.de/downloads/Werkstoffe_Fragen.pdf)                                                                                                       | N/A                                                                            |
 
-### 4. Semester
+### 📖 4. Semester
 
 | CI Status                                                                           | Formelsammlung                                                                                         | Repository                                               |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
@@ -79,7 +77,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 | ![CI Status](https://github.com/latex4ei/Regelungssysteme-1/workflows/CI/badge.svg) | [Regelungssysteme 1](https://github.com/latex4ei/Regelungssysteme-1/raw/gh-pages/Regelungssysteme.pdf) | [GitHub](https://github.com/latex4ei/Regelungssysteme-1) |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)         | [Energie-/Hochspannungstechnik](https://latex4ei.de/downloads/Energietechnik.pdf)                      | N/A                                                      |
 
-### Wahlfächer
+### 🛠️ Wahlfächer
 
 | CI Status                                                                                           | Formelsammlung                                                                                                                                                   | Repository                                                               |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -99,7 +97,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                         | [Leistungselektronik](https://latex4ei.de/downloads/Leistungselektronik.pdf)                                                                                     | N/A                                                                      |
 | ![CI Status](https://github.com/latex4ei/Verbrennungsmotoren/workflows/CI/badge.svg)                | [Verbrennungsmotoren](https://github.com/latex4ei/Verbrennungsmotoren/raw/gh-pages/Verbrennungsmotoren.pdf)                                                      | [GitHub](https://github.com/latex4ei/Verbrennungsmotoren)                |
 
-### Master
+### 🎓 Master
 
 | CI Status                                                                                        | Formelsammlung                                                                                                             | Repository                                                            |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -125,7 +123,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 | ![CI Status](https://github.com/latex4ei/Technische_Felder_und_Wellen/workflows/CI/badge.svg)    | [Technische_Felder_und_Wellen](https://github.com/latex4ei/Technische_Felder_und_Wellen/raw/gh-pages/TFW.pdf)              | [GitHub](https://github.com/latex4ei/Technische_Felder_und_Wellen)    |
 | ![CI Status](https://github.com/latex4ei/Numerical_Linear_Algebra_for_SP/workflows/CI/badge.svg) | [Numerical_Linear_Algebra_for_SP](https://github.com/latex4ei/Numerical_Linear_Algebra_for_SP/raw/gh-pages/nlasp_main.pdf) | [GitHub](https://github.com/latex4ei/Numerical_Linear_Algebra_for_SP) |
 
-### LaTeX
+### 📜 LaTeX
 
 | CI Status                                                                           | Formelsammlung                                                                                                                           | Repository                                               |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -135,7 +133,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 | ![CI Status](https://github.com/latex4ei/CheatsheetTemplate/workflows/CI/badge.svg) | [LaTeX4EI Vorlage für eigenes Cheatsheet Repository](https://github.com/latex4ei/CheatsheetTemplate/raw/gh-pages/CheatsheetTemplate.pdf) | [GitHub](https://github.com/latex4ei/CheatsheetTemplate) |
 | ![CI Status](https://github.com/latex4ei/latex4ei-packages/workflows/CI/badge.svg)  | [LaTeX4EI Template und Vorlagen für eigene Dokumente](https://github.com/latex4ei/latex4ei-packages/releases/latest)                     | [GitHub](https://github.com/latex4ei/latex4ei-packages)  |
 
-### Externe Formelsammlungen
+### 🌐 Externe Formelsammlungen
 
 Weitere, gute Formelsammlungen zu EI an der TUM findet ihr auch auf [www.ei-studium.de](http://www.ei-studium.de) oder [MaKeAppDev](https://makeappdev.github.io/TUM-Projekte). Ansonsten haben wir hier noch verstreute Formelsammlungen direkt verlinkt. Aber Achtung: Manche Formelsammlungen sind sehr alt und werden nicht mehr verbessert.
 
@@ -160,7 +158,7 @@ Weitere, gute Formelsammlungen zu EI an der TUM findet ihr auch auf [www.ei-stud
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey) | [Regelungssysteme 2 Ver. 2](https://latex4ei.de/ext_downloads/Regelungssysteme2v2.pdf)                               | N/A        |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey) | [Höhere Mathematik 4](https://latex4ei.de/ext_downloads/HM4.pdf)                                                     | N/A        |
 
-### Veraltete Formelsammlungen
+### 🕰️ Veraltete Formelsammlungen
 
 Achtung: Diese Formelsammlungen werden nicht mehr verwendet und nicht mehr verbessert!
 
@@ -178,6 +176,6 @@ Achtung: Diese Formelsammlungen werden nicht mehr verwendet und nicht mehr verbe
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Rauschen (unvollständig)](https://latex4ei.de/downloads/Rauschen.pdf)                                                                            | N/A                                                                   |
 | ![CI Status](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1/workflows/CI/badge.svg) | [Mensch-Maschine-Kommunikation 1 (vor WS 2016/17)](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1/raw/gh-pages/mmk1_vor_ws16-17.pdf) | [GitHub](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1) |
 
-## Lizenz
+## 📄 Lizenz
 
 Unsere Formelsammlungen sind lizenziert unter unserer [eigenen Lizenz](license.txt).
