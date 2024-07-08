@@ -30,7 +30,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 📖 1. Semester
 
-| Formelsammlung                                                                                                 | Repository                                                  | Last Commit Badge                                                                        |
+| Formelsammlung                                                                                                 | Repository                                                  | Stand                                                                                    |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [Analysis 1 Formelsammlung](https://github.com/latex4ei/Analysis-1/raw/gh-pages/Analysis-1.pdf)                | [GitHub](https://github.com/latex4ei/Analysis-1)            | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/Analysis-1)            |
 | [Analysis 1 für Mathematiker](https://latex4ei.de/downloads/Analysis_1_ma.pdf)                                 | [GitHub](https://github.com/latex4ei/Analysis-1)            | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/Analysis-1)            |
@@ -42,7 +42,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 📖 2. Semester
 
-| Formelsammlung                                                                                                                     | Repository                                                            | Last Commit Badge                                                                                  |
+| Formelsammlung                                                                                                                     | Repository                                                            | Stand                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [ADS Zusammenfassung (WS 2012/13)](https://latex4ei.de/downloads/ADS.pdf)                                                          | N/A                                                                   | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                                  |
 | [Algorithmen und Datenstrukturen Formelsammlung](https://github.com/latex4ei/Algorithmen-und-Datenstrukturen/raw/gh-pages/AuD.pdf) | [GitHub](https://github.com/latex4ei/Algorithmen-und-Datenstrukturen) | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/Algorithmen-und-Datenstrukturen) |
@@ -55,7 +55,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 📖 3. Semester
 
-| Formelsammlung                                                                                                                                                                            | Repository                                                                     | Last Commit Badge                                                                                           |
+| Formelsammlung                                                                                                                                                                            | Repository                                                                     | Stand                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | [Analysis 3 Formelsammlung](https://github.com/latex4ei/Analysis-3/raw/gh-pages/Analysis-3.pdf)                                                                                           | [GitHub](https://github.com/latex4ei/Analysis-3)                               | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/Analysis-3)                               |
 | [EMF Zusammenfassung](https://github.com/latex4ei/Elektromagnetische-Feldtheorie/raw/gh-pages/EMF.pdf)                                                                                    | [GitHub](https://github.com/latex4ei/Elektromagnetische-Feldtheorie)           | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/Elektromagnetische-Feldtheorie)           |
@@ -70,7 +70,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 📖 4. Semester
 
-| Formelsammlung                                                                                         | Repository                                               | Last Commit Badge                                                                     |
+| Formelsammlung                                                                                         | Repository                                               | Stand                                                                                 |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [MATLAB](https://latex4ei.de/downloads/Matlab.pdf)                                                     | N/A                                                      | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                     |
 | [Nachrichtentechnik](https://latex4ei.de/downloads/Nachrichtentechnik.pdf)                             | N/A                                                      | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                     |
@@ -79,7 +79,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 🛠️ Wahlfächer
 
-| Formelsammlung                                                                                                                                                   | Repository                                                               | Last Commit Badge                                                                                     |
+| Formelsammlung                                                                                                                                                   | Repository                                                               | Stand                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | [Betriebswirtschaftslehre 1 (FIQ Fach)](https://latex4ei.de/downloads/BWL.pdf)                                                                                   | N/A                                                                      | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                                     |
 | [Elektrische Kleinmaschinen](https://github.com/MaKeAppDev/FS-EKM/raw/gh-pages/formelsammlung.pdf)                                                               | [GitHub](https://github.com/MaKeAppDev/FS-EKM)                           | ![Last Commit](https://img.shields.io/github/last-commit/MaKeAppDev/FS-EKM)                           |
@@ -99,7 +99,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 🎓 Master
 
-| Formelsammlung                                                                                                             | Repository                                                            | Last Commit Badge                                                                                  |
+| Formelsammlung                                                                                                             | Repository                                                            | Stand                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [Elektrische Maschinen](https://github.com/MaKeAppDev/FS-EM/raw/gh-pages/formelsammlung.pdf)                               | [GitHub](https://github.com/MaKeAppDev/FS-EM)                         | ![Last Commit](https://img.shields.io/github/last-commit/MaKeAppDev/FS-EM)                         |
 | [Entwurf Elektrischer Maschinen](https://github.com/MaKeAppDev/FS-EEM/raw/gh-pages/formelsammlung.pdf)                     | [GitHub](https://github.com/MaKeAppDev/FS-EEM)                        | ![Last Commit](https://img.shields.io/github/last-commit/MaKeAppDev/FS-EEM)                        |
@@ -125,7 +125,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ### 📜 LaTeX
 
-| Formelsammlung                                                                                                                           | Repository                                               | Last Commit Badge                                                                     |
+| Formelsammlung                                                                                                                           | Repository                                               | Stand                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [LaTeX Einführung als .tex Vorlage](https://latex4ei.de/downloads/latex.tex)                                                             | N/A                                                      | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                     |
 | [LaTeX Cheat Sheet](https://latex4ei.de/downloads/LaTeX_CheatSheet.pdf)                                                                  | N/A                                                      | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                     |
@@ -137,7 +137,7 @@ Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 Weitere, gute Formelsammlungen zu EI an der TUM findet ihr auch auf [www.ei-studium.de](http://www.ei-studium.de) oder [MaKeAppDev](https://makeappdev.github.io/TUM-Projekte). Ansonsten haben wir hier noch verstreute Formelsammlungen direkt verlinkt. Aber Achtung: Manche Formelsammlungen sind sehr alt und werden nicht mehr verbessert.
 
-| Formelsammlung                                                                                                       | Repository | Last Commit Badge                                                 |
+| Formelsammlung                                                                                                       | Repository | Stand                                                             |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- |
 | [C Referenz Card (ANSI)](https://latex4ei.de/ext_downloads/CRefCard.v2.2.pdf)                                        | N/A        | ![Last Commit](https://img.shields.io/github/last-commit/no/repo) |
 | [C++ Referenz Card](https://latex4ei.de/ext_downloads/CppRefCard.pdf)                                                | N/A        | ![Last Commit](https://img.shields.io/github/last-commit/no/repo) |
@@ -162,7 +162,7 @@ Weitere, gute Formelsammlungen zu EI an der TUM findet ihr auch auf [www.ei-stud
 
 Achtung: Diese Formelsammlungen werden nicht mehr verwendet und nicht mehr verbessert!
 
-| Formelsammlung                                                                                                                                    | Repository                                                            | Last Commit Badge                                                                                  |
+| Formelsammlung                                                                                                                                    | Repository                                                            | Stand                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [Höhere Mathematik 1 Formelsammlung](https://latex4ei.de/downloads/MatheFS.pdf)                                                                   | [GitHub](https://github.com/latex4ei/Hoehere-Mathematik)              | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                                  |
 | [Höhere Mathematik für Elektoringenieure 1 - Mitschrift](https://latex4ei.de/downloads/Mathe1SK.pdf)                                              | N/A                                                                   | ![Last Commit](https://img.shields.io/github/last-commit/no/repo)                                  |
