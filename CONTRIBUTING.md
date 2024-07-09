@@ -18,7 +18,7 @@ Du findest einen Fehler in einer bestehenden Formelsammlung oder möchtest neuen
 
 Du möchtest eine neue Formelsammlung schreiben und sie bei uns auf der Website bereitstellen? Dann benutze am besten unser [Template](https://github.com/latex4ei/CheatsheetTemplate) für ein einheitliches und platzoptimiertes Design. Details über das Template findest du in der [Dokumentation](https://github.com/latex4ei/latex4ei-packages/tree/gh-pages) oder den Beispiel Formelsammlungen. Bist du mit deiner Formelsammlung zufrieden, melde dich am besten über das Kontaktformular bei uns.
 
-### Zu diesem Repository beitragen
+## Zu diesem Repository beitragen
 
 Installiere die Python requirements mit `pip3 install -r requirements.txt`.
 
