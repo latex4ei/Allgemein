@@ -2,27 +2,6 @@
 
 Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik (TUM).
 
-<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
-
-- [✏️ Mitarbeiten](#%E2%9C%8F%EF%B8%8F-mitarbeiten)
-- [📘 Formelsammlungen](#%F0%9F%93%98-formelsammlungen)
-  - [📖 1. Semester](#%F0%9F%93%96-1-semester)
-  - [📖 2. Semester](#%F0%9F%93%96-2-semester)
-  - [📖 3. Semester](#%F0%9F%93%96-3-semester)
-  - [📖 4. Semester](#%F0%9F%93%96-4-semester)
-  - [🛠️ Wahlfächer](#%F0%9F%9B%A0%EF%B8%8F-wahlf%C3%A4cher)
-  - [🎓 Master](#%F0%9F%8E%93-master)
-  - [📜 LaTeX](#%F0%9F%93%9C-latex)
-  - [🌐 Externe Formelsammlungen](#%F0%9F%8C%90-externe-formelsammlungen)
-  - [🕰️ Veraltete Formelsammlungen](#%F0%9F%95%B0%EF%B8%8F-veraltete-formelsammlungen)
-- [📄 Lizenz](#%F0%9F%93%84-lizenz)
-
-<!-- mdformat-toc end -->
-
-## ✏️ Mitarbeiten
-
-Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
-
 ## 📘 Formelsammlungen
 
 **[Essential Engineering Formulas](http://latex4ei.de/downloads/Ingenieursgrundlagen.pdf)** -
@@ -175,6 +154,10 @@ Achtung: Diese Formelsammlungen werden nicht mehr verwendet und nicht mehr verbe
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Digitaltechnik Formelsammlung (bis WS 2012/13)](https://latex4ei.de/downloads/FSDigitaltechnik-alte-Version.pdf)                                 | [GitHub](https://github.com/latex4ei/Digitaltechnik)                  |
 | ![CI Status](https://img.shields.io/badge/status-not%20available-lightgrey)                      | [Rauschen (unvollständig)](https://latex4ei.de/downloads/Rauschen.pdf)                                                                            | N/A                                                                   |
 | ![CI Status](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1/workflows/CI/badge.svg) | [Mensch-Maschine-Kommunikation 1 (vor WS 2016/17)](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1/raw/gh-pages/mmk1_vor_ws16-17.pdf) | [GitHub](https://github.com/latex4ei/Mensch-Maschine-Kommunikation-1) |
+
+## ✏️ Mitarbeiten
+
+Guidelines fürs Mitarbeiten findest du [hier](CONTRIBUTING.md)
 
 ## 📄 Lizenz
 
