@@ -11,10 +11,12 @@ repos:
       - id: check-added-large-files
       - id: check-case-conflict
       - id: check-shebang-scripts-are-executable
+      - id: check-symlinks
       - id: check-yaml
       - id: destroyed-symlinks
       - id: detect-private-key
       - id: end-of-file-fixer
+      - id: requirements-txt-fixer
       - id: trailing-whitespace
   - repo: https://github.com/executablebooks/mdformat
     rev: 0.7.17
@@ -26,3 +28,12 @@ repos:
           - mdformat-shfmt
           - mdformat-config
           - mdformat-toc
+  - repo: https://github.com/tcort/markdown-link-check
+    rev: v3.12.2
+    hooks:
+      - id: markdown-link-check
+        args: ["--quiet", "--config", ".md-link-config.json"]
+  - repo: https://github.com/google/yamlfmt
+    rev: v0.13.0
+    hooks:
+      - id: yamlfmt
