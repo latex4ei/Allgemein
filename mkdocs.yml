@@ -1,0 +1,25 @@
+site_name: LaTeX4EI
+site_description: Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik (TUM)
+site_url: https://latex4ei.de
+theme:
+  name: material
+  logo: img/Logo.png
+  favicon: img/Logo.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+plugins:
+  - search
+  - section-index
