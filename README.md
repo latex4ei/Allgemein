@@ -116,26 +116,43 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
 
 Weitere, gute Formelsammlungen zu EI an der TUM findet ihr auch auf [www.ei-studium.de](http://www.ei-studium.de) oder [MaKeAppDev](https://makeappdev.github.io/TUM-Projekte). Ansonsten haben wir hier noch verstreute Formelsammlungen direkt verlinkt. Aber Achtung: Manche Formelsammlungen sind sehr alt und werden nicht mehr verbessert.
 
+#### Informatik
+
+| Formelsammlung                                                                                                                | Repository | Stand                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------- |
+| [C Referenz Card (ANSI)](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/CRefCard.v2.2.pdf)               | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202007-inactive)  |
+| [C++ Referenz Card](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/CppRefCard.pdf)                       | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202009-inactive) |
+| [Computertechnik](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Computertechnik_FS.pdf)                 | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-july%202005-inactive)     |
+| [Grundlagen der Informatik](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Grundlagen_Informatik_FS.pdf) | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-november%202011-inactive) |
+| [Stochastische Signale](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Stochastische_Signale_FS.pdf)     | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202006-inactive)  |
+
+#### Elektrizität
+
 | Formelsammlung                                                                                                                                         | Repository | Stand                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------------------- |
-| [C Referenz Card (ANSI)](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/CRefCard.v2.2.pdf)                                        | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202007-inactive)  |
-| [C++ Referenz Card](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/CppRefCard.pdf)                                                | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202009-inactive) |
-| [Computertechnik](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Computertechnik_FS.pdf)                                          | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-july%202005-inactive)     |
-| [Grundlagen der Informatik](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Grundlagen_Informatik_FS.pdf)                          | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-november%202011-inactive) |
-| [Stochastische Signale](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Stochastische_Signale_FS.pdf)                              | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202006-inactive)  |
 | [Elektrizität und Magnetismus](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Elektrizit%C3%A4t_Magnetismus_Formeln.pdf)          | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-july%202011-inactive)     |
 | [Elektrische Energietechnik](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Elektrische_Energietechnik_FS.pdf)                    | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202007-inactive)  |
 | [Elektrische Energietechnik Verständnisfragen](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/2009-ET_Verst%C3%A4ndnisfragen.pdf) | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202009-inactive) |
 | [Stromversorgung mobiler Geräte FS](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Stromversorgung_mobiler_Ger%C3%A4te_FS.pdf)    | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-october%202012-inactive)  |
-| [SchaltungstechnikFS 1 (Fabian Steiner)](http://fabis-site.net/uni/st2/blaetter/st1-formelsammlung.pdf)                                                | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-n%2Fa-inactive)           |
-| [SchaltungstechnikFS 1 + 2 (Rosnitschek)](<https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Schaltungstechnik_FS(1+2).pdf>)         | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202000-inactive)  |
-| [Digitaltechnik FS (16 Seiten)](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Digitaltechnik_Formelsammlung.pdf)                 | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202009-inactive) |
-| [Digitaltechnik FS v2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Digitaltechnik_Formelsammlung2.pdf)                         | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202016-inactive) |
-| [Werkstoffe FS](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Werkstoffe_FS_V02.pdf)                                             | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202008-inactive) |
-| [Hochfrequenztechnik FS](http://www.eiit.de/v2/index.php?&showtopic=21121)                                                                             | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-n%2Fa-inactive)           |
-| [Regelungssysteme 2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Regelungssysteme2.pdf)                                        | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-december%202013-inactive) |
-| [Regelungssysteme 2 Ver. 2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Regelungssysteme2v2.pdf)                               | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202016-inactive) |
-| [Höhere Mathematik 4](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/HM4.pdf)                                                     | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-december%202013-inactive) |
+
+#### Schaltungstechnik
+
+| Formelsammlung                                                                                                                                 | Repository | Stand                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------- |
+| [SchaltungstechnikFS 1 (Fabian Steiner)](http://fabis-site.net/uni/st2/blaetter/st1-formelsammlung.pdf)                                        | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-n%2Fa-inactive)           |
+| [SchaltungstechnikFS 1 + 2 (Rosnitschek)](<https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Schaltungstechnik_FS(1+2).pdf>) | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202000-inactive)  |
+| [Digitaltechnik FS (16 Seiten)](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Digitaltechnik_Formelsammlung.pdf)         | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202009-inactive) |
+| [Digitaltechnik FS v2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Digitaltechnik_Formelsammlung2.pdf)                 | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202016-inactive) |
+
+#### Sonstiges
+
+| Formelsammlung                                                                                                           | Repository | Stand                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------------------- |
+| [Werkstoffe FS](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Werkstoffe_FS_V02.pdf)               | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202008-inactive) |
+| [Hochfrequenztechnik FS](http://www.eiit.de/v2/index.php?&showtopic=21121)                                               | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-n%2Fa-inactive)           |
+| [Regelungssysteme 2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Regelungssysteme2.pdf)          | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-december%202013-inactive) |
+| [Regelungssysteme 2 Ver. 2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Regelungssysteme2v2.pdf) | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202016-inactive) |
+| [Höhere Mathematik 4](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/HM4.pdf)                       | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-december%202013-inactive) |
 
 ### 🕰️ Veraltete Formelsammlungen
 
