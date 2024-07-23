@@ -104,13 +104,13 @@ Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik
 
 ### 📜 LaTeX
 
-| Formelsammlung                                                                                                                           | Repository                                               | Stand                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [LaTeX Einführung als .tex Vorlage](https://latex4ei.github.io/external/download/latex4ei_pdfs/latex.tex)                                | N/A                                                      | ![Last Commit](https://img.shields.io/badge/last_commit-january%202012-inactive)      |
-| [LaTeX Cheat Sheet](https://latex4ei.github.io/external/download/latex4ei_pdfs/LaTeX_CheatSheet.pdf)                                     | N/A                                                      | ![Last Commit](https://img.shields.io/badge/last_commit-november%202013-inactive)     |
-| [LaTeX Symbol Liste](https://latex4ei.github.io/external/download/latex4ei_pdfs/latexsymbols.pdf)                                        | N/A                                                      | ![Last Commit](https://img.shields.io/badge/last_commit-june%202013-inactive)         |
-| [LaTeX4EI Vorlage für eigenes Cheatsheet Repository](https://github.com/latex4ei/CheatsheetTemplate/raw/gh-pages/CheatsheetTemplate.pdf) | [GitHub](https://github.com/latex4ei/CheatsheetTemplate) | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/CheatsheetTemplate) |
-| [LaTeX4EI Template und Vorlagen für eigene Dokumente](https://github.com/latex4ei/latex4ei-packages/releases/latest)                     | [GitHub](https://github.com/latex4ei/latex4ei-packages)  | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/latex4ei-packages)  |
+| Formelsammlung                                                                                                     | Repository                                               | Stand                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [LaTeX4EI Vorlage für eigene Formelsammlungen](https://github.com/latex4ei/CheatsheetTemplate)                     | [GitHub](https://github.com/latex4ei/CheatsheetTemplate) | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/CheatsheetTemplate) |
+| [LaTeX4EI Pakete und Vorlagen für eigene Dokumente](https://github.com/latex4ei/latex4ei-packages/releases/latest) | [GitHub](https://github.com/latex4ei/latex4ei-packages)  | ![Last Commit](https://img.shields.io/github/last-commit/latex4ei/latex4ei-packages)  |
+| [LaTeX Einführung als .tex Vorlage](https://latex4ei.github.io/external/download/latex4ei_pdfs/latex.tex)          | N/A                                                      | ![Last Commit](https://img.shields.io/badge/last_commit-january%202012-inactive)      |
+| [LaTeX Cheat Sheet](https://latex4ei.github.io/external/download/latex4ei_pdfs/LaTeX_CheatSheet.pdf)               | N/A                                                      | ![Last Commit](https://img.shields.io/badge/last_commit-november%202013-inactive)     |
+| [LaTeX Symbol Liste](https://latex4ei.github.io/external/download/latex4ei_pdfs/latexsymbols.pdf)                  | N/A                                                      | ![Last Commit](https://img.shields.io/badge/last_commit-june%202013-inactive)         |
 
 ### 🌐 Externe Formelsammlungen
 
