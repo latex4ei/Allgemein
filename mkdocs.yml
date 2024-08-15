@@ -23,3 +23,9 @@ markdown_extensions:
 plugins:
   - search
   - section-index
+
+nav:
+  - Home: README.md
+  - Wie kann ich helfen: CONTRIBUTING.md
+  - TEX4TUM: https://tex4tum.de
+  - Über uns: ABOUT.md
