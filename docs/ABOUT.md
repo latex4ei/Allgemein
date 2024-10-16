@@ -29,37 +29,6 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-### Alexander Preißner
-
-- **Autor**
-- **Strukturierung der Dokumente**
-
-______________________________________________________________________
-
-### Katharina Krusche
-
-- **Autorin Zusammenfassungen**
-
-______________________________________________________________________
-
-### Hendrik Böttcher
-
-- **Autor**
-
-______________________________________________________________________
-
-### Benedict Simlinger
-
-- **Mitschrift Mathematik für EI IV**
-
-______________________________________________________________________
-
-### Fabian Göttel
-
-- **Formelsammlung MMK I**
-
-______________________________________________________________________
-
 ### Kevin Meyer
 
 - **Autor**
@@ -132,3 +101,42 @@ ______________________________________________________________________
 - [GitHub](https://github.com/philipp-weiss)
 
 ______________________________________________________________________
+
+### Alexander Preißner
+
+- **Autor**
+- **Strukturierung der Dokumente**
+
+______________________________________________________________________
+
+### Katharina Krusche
+
+- **Autorin Zusammenfassungen**
+
+______________________________________________________________________
+
+### Hendrik Böttcher
+
+- **Autor**
+
+______________________________________________________________________
+
+### Benedict Simlinger
+
+- **Mitschrift Mathematik für EI IV**
+
+______________________________________________________________________
+
+### Fabian Göttel
+
+- **Formelsammlung MMK I**
+
+______________________________________________________________________
+
+## Kontakt
+
+Bei Fragen oder Anregungen, sind wir auf folgenden Wegen erreichbar:
+
+- **GitHub:** Entweder in den jeweiligen Repositories der Projekte ein Issue erstellen oder im allgemeinen Repository unter [github.com/latex4ei/Allgemein/issues](https://github.com/latex4ei/Allgemein/issues).
+
+- **E-Mail:** Für allgemeine Anfragen und außerhalb von GitHub stehen wir auch per E-Mail zur Verfügung: [info@latex4ei.de](mailto:info@latex4ei.de).
