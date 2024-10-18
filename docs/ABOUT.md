@@ -132,11 +132,3 @@ ______________________________________________________________________
 - **Formelsammlung MMK I**
 
 ______________________________________________________________________
-
-## Kontakt
-
-Bei Fragen oder Anregungen, sind wir auf folgenden Wegen erreichbar:
-
-- **GitHub:** Entweder in den jeweiligen Repositories der Projekte ein Issue erstellen oder im allgemeinen Repository unter [github.com/latex4ei/Allgemein/issues](https://github.com/latex4ei/Allgemein/issues).
-
-- **E-Mail:** Für allgemeine Anfragen und außerhalb von GitHub stehen wir auch per E-Mail zur Verfügung: [info@latex4ei.de](mailto:info@latex4ei.de).

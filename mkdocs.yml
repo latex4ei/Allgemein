@@ -28,4 +28,8 @@ nav:
   - Home: README.md
   - Wie kann ich helfen: CONTRIBUTING.md
   - TEX4TUM: http://tex4tum.de
+  - Kontakt: CONTACT.md
   - Über uns: ABOUT.md
+
+extra_css:
+  - css/custom.css
