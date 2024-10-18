@@ -10,7 +10,7 @@ Bei Fragen oder Anregungen, sind wir auf folgenden Wegen erreichbar:
 
 <form action="https://formspree.io/f/mgveejwg" method="POST">
   <label for="formelsammlung">Betroffene Formelsammlung</label><br>
-  <input type="text" id="name" name="name" required><br>
+  <input type="text" id="formelsammlung" name="formelsammlung" required><br>
 
 <label for="email">Deine E-Mail-Adresse (für Rückfragen)</label><br>
 <input type="email" id="email" name="email" required><br>
