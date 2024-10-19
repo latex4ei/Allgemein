@@ -1,6 +1,6 @@
 # Über uns
 
-## About LaTeX4Ei
+## LaTeX4Ei
 
 LaTeX 4 EI ist ein 2011 gegründetes Studentenprojekt von und für Studenten der Elektro- und Informationstechnik an der Technischen Universität München. Wir schreiben Zusammenfassungen und Formelsammlungen in verschiedenen Fächern mit LaTeX und stellen diese für jeden frei zur Verfügung. Unser Ziel ist es, den Stoff möglichst knapp, übersichtlich und verständlich in einer Version darzustellen.
 

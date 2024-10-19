@@ -6,11 +6,11 @@ Bei Fragen oder Anregungen, sind wir auf folgenden Wegen erreichbar:
 
 - **E-Mail:** Für allgemeine Anfragen und außerhalb von GitHub stehen wir auch per E-Mail zur Verfügung: [info@latex4ei.de](mailto:info@latex4ei.de).
 
-- **Kontaktformular:**
+## Kontaktformular
 
 <form action="https://formspree.io/f/mgveejwg" method="POST">
-  <label for="formelsammlung">Betroffene Formelsammlung</label><br>
-  <input type="text" id="formelsammlung" name="formelsammlung" required><br>
+  <label for="formelsammlung">Betroffene Formelsammlung (optional)</label><br>
+  <input type="text" id="formelsammlung" name="formelsammlung"><br>
 
 <label for="email">Deine E-Mail-Adresse (für Rückfragen)</label><br>
 <input type="email" id="email" name="email" required><br>
