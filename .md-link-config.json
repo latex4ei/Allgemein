@@ -6,5 +6,15 @@
     {
       "pattern": "^http://"
     }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^/",
+      "replacement": "{{BASEURL}}/"
+    },
+    {
+      "pattern": "/img/",
+      "replacement": "/docs/img/"
+    }
   ]
 }
