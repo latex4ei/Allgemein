@@ -8,7 +8,7 @@ Finde Fehler oder unpräzise Formulierungen und teile uns diese mit. Gerne als I
 
 Falls Du eine Formelsammlung erweitern oder verbessern, beziehungsweise eine Neue schreiben willst, dann [melde Dich bei uns](mailto:info@latex4ei.de)! Wir helfen Dir gerne dabei.
 
-Mitarbeiten kann jeder, der mit einem Computer umgehen kann. LaTeX ist eine einfache und intuitive Skriptsprache ([LaTeX How-To](https://www.ph.tum.de/academics/org/labs/ap/ap1/LaTeX-Handout.pdf)). Wir freuen uns über jede Hilfe. Je mehr Leute mithelfen, desto besser werden die Formelsammlungen für alle.
+Mitarbeiten kann jeder, der mit einem Computer umgehen kann. LaTeX ist eine einfache und intuitive Skriptsprache ([LaTeX How-To](https://latex4ei.github.io/external/download/LaTeX-Handout.pdf)). Wir freuen uns über jede Hilfe. Je mehr Leute mithelfen, desto besser werden die Formelsammlungen für alle.
 
 ### Bestehende Formelsammlungen verbessern oder erweitern
 
