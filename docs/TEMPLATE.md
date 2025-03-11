@@ -1,10 +1,6 @@
-______________________________________________________________________
+# ![CheatsheetTemplate](/img/CheatsheetTemplate.png)
 
-## title: "LaTeX4Ei Template: Compile Beautiful Cheat Sheets in LaTeX" nav_title: "LaTeX4Ei Template" description: "Clone our CheatsheetTemplate repository, update the file name, and use our GitHub Action to compile professional cheat sheets with LaTeX4Ei."
-
-![CheatsheetTemplate](/img/CheatsheetTemplate.png)
-
-The **LaTeX4Ei Template** is the solution for writing beautiful cheat sheets. In this section we explain how to get started using our template.
+The [**LaTeX4Ei Template**](https://github.com/latex4ei/CheatsheetTemplate) is the solution for writing beautiful cheat sheets. In this section we explain how to get started using our template.
 
 ## Example
 
@@ -14,6 +10,8 @@ Here is our documentation PDF that demonstrates the template’s output:
   frameborder="0">
   This browser does not support PDFs. Please download the PDF <a href="https://latex4ei.github.io/latex4ei-packages/LaTeX4EI-Template-Documentation.pdf">here</a>.
 </iframe>
+
+______________________________________________________________________
 
 ## Using the Template
 
