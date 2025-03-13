@@ -26,6 +26,26 @@ ______________________________________________________________________
 
 1. **Place the Package:**
    Unzip `latex4ei.zip` (from the package download) and move the entire `latex4ei` folder into the root of your repository.
+	
+	If you want to permamently install our package, copy the `latex4ei` folder into your tex-distribution directory
+
+	1. **Windows**
+
+		Copy files to `C:\texlive\XXXX\texmf-dist\tex\latex\latex4ei`
+
+	2. **Linux**
+
+		```bash
+		sudo cp -r latex4ei /usr/share/texlive/texmf-dist/tex/latex/latex4ei
+		sudo mktexlsr
+		```
+
+	3. **Mac OS X**
+
+		```bash
+		cp -r latex4ei /usr/local/texlive/texmf-local/tex/latex/latex4ei
+		```
+   
 
 ### 2. Update Environment (if using GitHub Actions)
 
