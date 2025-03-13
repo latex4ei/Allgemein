@@ -26,9 +26,10 @@ plugins:
 
 nav:
   - Home: README.md
+  - Template: TEMPLATE.md
+  - Wie kann ich helfen: CONTRIBUTING.md
   - TEX4TUM: http://tex4tum.de
   - Über uns: ABOUT.md
-  - Wie kann ich helfen: CONTRIBUTING.md
   - Kontakt: CONTACT.md
 
 extra_css:

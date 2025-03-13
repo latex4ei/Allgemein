@@ -1,4 +1,7 @@
-# [LaTeX4Ei](http://latex4ei.de)
+<h1>
+    <img src="/img/Logo.png" width="100" style="vertical-align: middle; margin-right: 10px;">
+    <a href="http://latex4ei.de" style="color: currentColor; text-decoration: none;">LaTeX4Ei</a>
+</h1>
 
 Mitschriften und Formelsammlungen in LaTeX für Elektro- und Informationstechnik (TUM).
 
