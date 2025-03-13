@@ -30,16 +30,21 @@ ______________________________________________________________________
 If you want to **permanently install** our package, copy the `latex4ei` folder into your TeX distribution directory.
 
 - **Windows**
-  ```bash
+
+  ```
    Copy files to C:\texlive\XXXX\texmf-dist\tex\latex\latex4ei
   ```
+
 - **Linux**
-  ```bash
+
+  ```
   sudo cp -r latex4ei /usr/share/texlive/texmf-dist/tex/latex/latex4ei
   sudo mktexlsr
   ```
+
 - **Mac OS X**
-  ```bash
+
+  ```
   cp -r latex4ei /usr/local/texlive/texmf-local/tex/latex/latex4ei
   ```
 
