@@ -1,0 +1,40 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Reduce font size and spacing for labels */
+label {
+  font-size: 0.8rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Adjust input and textarea styles */
+input, textarea {
+  margin-bottom: 0.5rem;
+  padding: 0.4rem;
+  font-size: 0.8rem;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+}
+
+/* Adjust button styles */
+button {
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
