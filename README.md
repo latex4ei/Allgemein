@@ -148,6 +148,7 @@ Weitere, gute Formelsammlungen zu EI an der TUM findet ihr auch auf [www.ei-stud
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------- |
 | [SchaltungstechnikFS 1 (Fabian Steiner)](http://fabis-site.net/uni/st2/blaetter/st1-formelsammlung.pdf)                                        | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-n%2Fa-inactive)           |
 | [SchaltungstechnikFS 1 + 2 (Rosnitschek)](<https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Schaltungstechnik_FS(1+2).pdf>) | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-january%202000-inactive)  |
+| [Systemtheorie (Florian Steininger)](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Systemtheorie-FS.pdf)                 | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-august%202024-inactive)   |
 | [Digitaltechnik FS (16 Seiten)](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Digitaltechnik_Formelsammlung.pdf)         | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202009-inactive) |
 | [Digitaltechnik FS v2](https://latex4ei.github.io/external/download/latex4ei_pdfs/external/Digitaltechnik_Formelsammlung2.pdf)                 | N/A        | ![Last Commit](https://img.shields.io/badge/last_commit-february%202016-inactive) |
 
